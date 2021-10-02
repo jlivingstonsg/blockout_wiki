@@ -12,7 +12,8 @@ In 1989, Blockout was designed as a Computer Video game by Aleksander Ustaszewsk
 
 More info at http://www.gamepuzzles.com/polyintr.htm#Blockout
 
-
+Links:
+A online browser version with a global scoreboard.  https://BlockOut.nu
 
 ##
 
